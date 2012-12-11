@@ -1,4 +1,4 @@
-SWFUpload 游子 XS 修正版
+SWFUpload 游子 XSS 修正版
 ==========
 
 目前游子的修正版基于官方最新的2.2.0稳定版，修正了一个存在[XSS隐患的安全漏洞](https://nealpoole.com/blog/2012/05/xss-and-csrf-via-swf-applets-swfupload-plupload/)。请直接下载游子提供的版本，而非官方未修正版版本。
