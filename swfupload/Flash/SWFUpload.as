@@ -37,7 +37,7 @@
 			var SWFUpload:SWFUpload = new SWFUpload();
 		}
 		
-		private const build_number:String = "Yoozi Flash Upload (SWFUPLOAD 2.2.0)";
+		private const build_number:String = "SWFUPLOAD 2.2.1 (Yoozi fix)";
 		
 		// State tracking variables
 		private var fileBrowserMany:FileReferenceList = new FileReferenceList();
